@@ -17,3 +17,7 @@ path = "memory_management/main.rs"
 [[bin]]
 name = "sub_classing"
 path = "sub_classing/main.rs"
+
+[[bin]]
+name = "g_object_values"
+path = "g_object_values/main.rs"
